@@ -1,2 +1,3 @@
 Inhalt von Datei B
 Fix 1
+Fix 2
